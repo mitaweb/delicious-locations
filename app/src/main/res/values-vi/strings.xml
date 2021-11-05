@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Chia Sẻ Công Thức</string>
+    <string name="main_share_app">"Hãy tải ứng dụng của chúng tôi tại: https://play.google.com/store/apps/details?id="</string>
+
+    <string name="menu_home">Trang Chủ</string>
+    <string name="menu_my_likes">Danh Sách Yêu Thích</string>
+    <string name="menu_my_posts">Danh Sách Bài Viết</string>
+    <string name="menu_feedback">Phản Hồi</string>
+    <string name="menu_share">Chia Sẻ</string>
+    <string name="menu_sign_out">Thoát</string>
+    <string name="menu_search">"Tìm Kiếm Công Thức"</string>
+
+    <string name="main_sign_in">Đăng Nhập</string>
+    <string name="main_feedback_subject">"[Chia Sẻ Công Thức] Phản Hồi Từ Người Dùng"</string>
+
+    <string name="dialog_add_post_title">"Công Thức Mới"</string>
+    <string name="dialog_add_post_title_hint">"Tựa Đề:"</string>
+    <string name="dialog_add_post_title_error">"Tựa Đề không được để trống"</string>
+    <string name="dialog_add_post_description_hint">"Mô Tả:"</string>
+    <string name="dialog_add_post_description_error">"Mô Tả không được để trống"</string>
+    <string name="dialog_add_post_poster_hint">"Ảnh Minh Hoạ:"</string>
+    <string name="dialog_add_post_poster_error">"Ảnh Minh Hoạ không được để trống"</string>
+    <string name="dialog_add_post_food_ingredients_hint">"Nguyên Liệu:"</string>
+    <string name="dialog_add_post_food_ingredients_error">"Nguyên Liệu không được để trống"</string>
+    <string name="dialog_add_post_cooking_recipe_hint">"Cách Thực Hiện:"</string>
+    <string name="dialog_add_post_cooking_recipe_error">"Cách Thực Hiện không được để trống"</string>
+    <string name="dialog_add_post_tag_categories_hint">"Đánh Dấu Thể Loại"</string>
+    <string name="dialog_add_post_tag_categories_error">"Đánh Dấu Thể Loại không được để trống"</string>
+    <string name="dialog_add_post_cancel">"Huỷ"</string>
+    <string name="dialog_add_post_add">"Thêm"</string>
+    <string name="dialog_add_post_update">"Cập Nhật"</string>
+
+    <string name="dialog_add_tag_title">"Chọn Thể Loại"</string>
+    <string name="dialog_add_tag_btn_cancel">"Huỷ"</string>
+    <string name="dialog_add_tag_btn_add">"Thêm"</string>
+
+    <string name="detail_post_share">"Chia Sẻ"</string>
+    <string name="detail_post_like">"Yêu Thích"</string>
+    <string name="detail_post_share_title_post">"Chúng tôi có công thức nấu ăn tuyệt vời: "</string>
+    <string name="detail_post_share_title_download">"Tải xuống ứng dụng của chúng tôi tại: https://play.google.com/store/apps/details?id="</string>
+    <string name="detail_post_1_rating_post">"Người Dùng Đánh Giá: %.1f/5 (%d phiếu)"</string>
+    <string name="detail_post_rating_post">"Người Dùng Đánh Giá: %.1f/5 (%d phiếu)"</string>
+
+    <string name="my_post_delete_title">"Xoá Công Thức"</string>
+    <string name="my_post_delete_message">"Bạn có chắc chắn không?"</string>
+</resources>

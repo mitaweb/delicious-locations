@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.fetel.ltdd.team9.share.recipes.ui.fragments.HomeFragment"
+        android:label="@string/app_name"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_my_likes"
+        android:name="com.fetel.ltdd.team9.share.recipes.ui.fragments.MyLikeFragment"
+        android:label="@string/menu_my_likes"
+        tools:layout="@layout/fragment_my_post" />
+
+    <fragment
+        android:id="@+id/nav_my_posts"
+        android:name="com.fetel.ltdd.team9.share.recipes.ui.fragments.MyPostFragment"
+        android:label="@string/menu_my_posts"
+        tools:layout="@layout/fragment_my_post" />
+</navigation>

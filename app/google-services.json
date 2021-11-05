@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "92401265370",
+    "firebase_url": "https://share-recipes-983c5-default-rtdb.firebaseio.com",
+    "project_id": "share-recipes-983c5",
+    "storage_bucket": "share-recipes-983c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92401265370:android:4cbe5a1480f7a4dfe3d3e3",
+        "android_client_info": {
+          "package_name": "com.fetel.ltdd.team9.share.recipes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92401265370-9vqapvjka7fgp6lknovev97shem09e46.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fetel.ltdd.team9.share.recipes",
+            "certificate_hash": "0d3add1220289909c1cf2c358275dfb3b6a26243"
+          }
+        },
+        {
+          "client_id": "92401265370-fghhrdu1m5blv413jmbsooqcoi2if0qa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpmjv-m8NvNjmP_HJbrlyzqQo1gN6sOpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92401265370-fghhrdu1m5blv413jmbsooqcoi2if0qa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

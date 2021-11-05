@@ -1,2 +1,0 @@
-# delicious-locations
-Delicious Locations
